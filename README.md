@@ -19,6 +19,6 @@ Not that good tho I would say but good enough.
 - **Scikit-learn** – TF-IDF and cosine similarity
 - **NLTK** – Tokenization, stopwords, frequency distribution
 - **python-pptx** – PowerPoint slide generation
-- **NumPy**, **Pandas** – Data handling and manipulation
+- **NumPy** – Data handling and manipulation
 
 
